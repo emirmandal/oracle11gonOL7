@@ -36,3 +36,9 @@ as oracle
 
 As a root user, execute the following script(s):
 	1. /u01/app/oracle/product/12.1.0/root.sh
+
+
+as oracle (run database upgrade assistant)
+
+dbua
+
